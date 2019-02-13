@@ -1,0 +1,101 @@
+,Fecha_A,Unidmed,Edad,Ocupa,lat,lng,locality,Servatn_cat,Sat1_cat,Probsal_cat,Sat1_ordered,Diascita_ord,Citapre_ord,Satiemesp_ord,Temsad1_ord,Totmed_ord,Calfinmb_F_ord
+0,2018,UMF 1 Aguascalientes,29.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Embarazo,5.0,3.0,1.0,4.0,5.0,3.0,5.0
+1,2018,UMF 1 Aguascalientes,45.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Enfermedades del corazón,4.0,3.0,1.0,5.0,7.0,3.0,3.0
+2,2018,UMF 1 Aguascalientes,80.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Enfermedades del corazón,5.0,3.0,1.0,5.0,,3.0,4.0
+3,2018,UMF 1 Aguascalientes,73.0,9,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Diabetes mellitus o pie diabético,5.0,3.0,1.0,5.0,,3.0,3.0
+4,2018,UMF 1 Aguascalientes,60.0,9,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Diabetes mellitus o pie diabético,5.0,3.0,1.0,5.0,,3.0,5.0
+5,2018,UMF 1 Aguascalientes,49.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,4.0,1.0,2.0,,3.0,4.0
+6,2018,UMF 1 Aguascalientes,57.0,1,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,2.0,,3.0,4.0
+7,2018,UMF 1 Aguascalientes,69.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,,3.0,4.0
+8,2018,UMF 1 Aguascalientes,51.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,4.0,1.0,5.0,,3.0,4.0
+9,2018,UMF 1 Aguascalientes,54.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,,0.0,4.0,,3.0,4.0
+10,2018,UMF 1 Aguascalientes,22.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Diabetes mellitus o pie diabético,5.0,4.0,1.0,5.0,6.0,3.0,4.0
+11,2018,UMF 1 Aguascalientes,19.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,5.0,1.0,4.0,6.0,,4.0
+12,2018,UMF 1 Aguascalientes,53.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,5.0,1.0,4.0,,3.0,4.0
+13,2018,UMF 1 Aguascalientes,73.0,9,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,5.0,3.0,5.0
+14,2018,UMF 1 Aguascalientes,61.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,,3.0,4.0
+15,2018,UMF 1 Aguascalientes,44.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Diabetes mellitus o pie diabético,2.0,3.0,1.0,2.0,7.0,2.0,4.0
+16,2018,UMF 1 Aguascalientes,38.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Infecciones respiratorias agudas,2.0,4.0,1.0,4.0,,3.0,4.0
+17,2018,UMF 1 Aguascalientes,64.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Enfermedades de la glándula tiroides,4.0,3.0,1.0,4.0,,3.0,4.0
+18,2018,UMF 1 Aguascalientes,37.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infecciones respiratorias agudas,4.0,,0.0,4.0,,3.0,4.0
+19,2018,UMF 1 Aguascalientes,78.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,3.0,1.0,4.0,,3.0,4.0
+20,2018,UMF 1 Aguascalientes,19.0,6,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Ginecología,4.0,6.0,1.0,4.0,4.0,,4.0
+21,2018,UMF 1 Aguascalientes,47.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Gastritis y duodenitis,4.0,6.0,1.0,4.0,,3.0,3.0
+22,2018,UMF 1 Aguascalientes,52.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,3.0,1.0,4.0,,3.0,3.0
+23,2018,UMF 1 Aguascalientes,18.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,"Control, supervisión o seguimiento de personas sanas",2.0,6.0,1.0,4.0,,,
+24,2018,UMF 1 Aguascalientes,54.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Enfermedades de la glándula tiroides,4.0,6.0,1.0,4.0,,3.0,4.0
+25,2018,UMF 1 Aguascalientes,44.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,"Control, supervisión o seguimiento de personas sanas",2.0,,0.0,2.0,,3.0,3.0
+26,2018,UMF 1 Aguascalientes,42.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Ganglio,2.0,,0.0,2.0,,3.0,3.0
+27,2018,UMF 1 Aguascalientes,34.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,6.0,1.0,4.0,,,3.0
+28,2018,UMF 1 Aguascalientes,37.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,6.0,1.0,4.0,,3.0,4.0
+29,2018,UMF 1 Aguascalientes,19.0,6,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Maréo / vértigo,4.0,,0.0,4.0,,3.0,4.0
+30,2018,UMF 1 Aguascalientes,32.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,,0.0,4.0,,3.0,4.0
+31,2018,UMF 1 Aguascalientes,27.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,6.0,1.0,4.0,,3.0,4.0
+32,2018,UMF 1 Aguascalientes,57.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,,0.0,4.0,,3.0,4.0
+33,2018,UMF 1 Aguascalientes,66.0,9,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,4.0,1.0,5.0,,,3.0
+34,2018,UMF 1 Aguascalientes,33.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infecciones respiratorias agudas,4.0,,0.0,2.0,,3.0,2.0
+35,2018,UMF 1 Aguascalientes,37.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Gastritis y duodenitis,4.0,,0.0,4.0,7.0,3.0,4.0
+36,2018,UMF 1 Aguascalientes,45.0,1,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Dorsopatías,4.0,4.0,1.0,4.0,,3.0,4.0
+37,2018,UMF 1 Aguascalientes,26.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hernia,4.0,,0.0,4.0,7.0,3.0,5.0
+38,2018,UMF 1 Aguascalientes,53.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Trastornos mentales y del comportamiento,4.0,4.0,1.0,5.0,,3.0,3.0
+39,2018,UMF 1 Aguascalientes,22.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Traumatismos y envenenamientos,4.0,,0.0,4.0,,3.0,5.0
+40,2018,UMF 1 Aguascalientes,74.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Problemas en el pecho,4.0,,0.0,4.0,,3.0,3.0
+41,2018,UMF 1 Aguascalientes,22.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Absceso / Quistes,5.0,4.0,1.0,4.0,,3.0,4.0
+42,2018,UMF 1 Aguascalientes,52.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Problemas de huesos,5.0,5.0,1.0,4.0,,3.0,4.0
+43,2018,UMF 1 Aguascalientes,53.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,6.0,1.0,4.0,4.0,3.0,4.0
+44,2018,UMF 1 Aguascalientes,69.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,,3.0,4.0
+45,2018,UMF 1 Aguascalientes,49.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Artropatías,4.0,3.0,1.0,4.0,,3.0,5.0
+46,2018,UMF 1 Aguascalientes,53.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,3.0,1.0,4.0,7.0,3.0,4.0
+47,2018,UMF 1 Aguascalientes,58.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,7.0,3.0,4.0
+48,2018,UMF 1 Aguascalientes,59.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,6.0,1.0,4.0,,3.0,4.0
+49,2018,UMF 1 Aguascalientes,64.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,,3.0,4.0
+50,2018,UMF 1 Aguascalientes,44.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Diabetes mellitus o pie diabético,4.0,3.0,1.0,4.0,7.0,3.0,4.0
+51,2018,UMF 1 Aguascalientes,23.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Gastritis y duodenitis,4.0,,0.0,4.0,,3.0,4.0
+52,2018,UMF 1 Aguascalientes,56.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Ni satisfecho ni insatisfecho,Enfermedades de la piel y del tejido subcutáneo,3.0,4.0,1.0,4.0,,,4.0
+53,2018,UMF 1 Aguascalientes,19.0,6,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Epilepsia,4.0,4.0,1.0,4.0,,3.0,5.0
+54,2018,UMF 1 Aguascalientes,65.0,9,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Dorsopatías,2.0,,0.0,2.0,6.0,3.0,3.0
+55,2018,UMF 1 Aguascalientes,81.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Enfermedad general,4.0,4.0,1.0,4.0,,3.0,4.0
+56,2018,UMF 1 Aguascalientes,70.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,3.0,1.0,4.0,,3.0,4.0
+57,2018,UMF 1 Aguascalientes,38.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,"Bronquitis crónica y  la no especificada, enfisema y asma",2.0,3.0,1.0,4.0,,3.0,4.0
+58,2018,UMF 1 Aguascalientes,44.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Ni satisfecho ni insatisfecho,Trastornos mentales y del comportamiento,3.0,,0.0,4.0,,3.0,4.0
+59,2018,UMF 1 Aguascalientes,37.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Enfermedades Infecciosas Intestinales,5.0,,0.0,5.0,,3.0,5.0
+60,2018,UMF 1 Aguascalientes,47.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Rinitis, rinofaringitis y faringitis crónicas",4.0,,0.0,4.0,,3.0,3.0
+61,2018,UMF 1 Aguascalientes,56.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,,0.0,4.0,,3.0,5.0
+62,2018,UMF 1 Aguascalientes,55.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,4.0,1.0,4.0,4.0,3.0,2.0
+63,2018,UMF 1 Aguascalientes,44.0,12,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,3.0,1.0,4.0,,3.0,5.0
+64,2018,UMF 1 Aguascalientes,27.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,"Control, supervisión o seguimiento de personas sanas",4.0,4.0,1.0,4.0,4.0,3.0,4.0
+65,2018,UMF 1 Aguascalientes,28.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,"Control, supervisión o seguimiento de personas sanas",5.0,4.0,1.0,4.0,5.0,3.0,3.0
+66,2018,UMF 1 Aguascalientes,30.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,5.0,1.0,4.0,,3.0,4.0
+67,2018,UMF 1 Aguascalientes,38.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Dorsopatías,2.0,4.0,1.0,4.0,,3.0,4.0
+68,2018,UMF 1 Aguascalientes,33.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Artropatías,4.0,,0.0,4.0,,3.0,4.0
+69,2018,UMF 1 Aguascalientes,38.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infecciones respiratorias agudas,4.0,,0.0,5.0,5.0,3.0,4.0
+70,2018,UMF 1 Aguascalientes,25.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infecciones respiratorias agudas,4.0,,0.0,4.0,,3.0,4.0
+71,2018,UMF 1 Aguascalientes,54.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Artropatías,4.0,4.0,1.0,5.0,,3.0,4.0
+72,2018,UMF 1 Aguascalientes,67.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Trastornos del metabolismo de las lipoproteínas y otras,4.0,4.0,1.0,4.0,,3.0,4.0
+73,2018,UMF 1 Aguascalientes,29.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,"Control, supervisión o seguimiento de personas sanas",5.0,3.0,1.0,5.0,,3.0,4.0
+74,2018,UMF 1 Aguascalientes,19.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Enfermedades de la piel y del tejido subcutáneo,4.0,,0.0,4.0,,3.0,4.0
+75,2018,UMF 1 Aguascalientes,26.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Problemas pulmonares,4.0,,0.0,4.0,,3.0,4.0
+76,2018,UMF 1 Aguascalientes,29.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Infecciones respiratorias agudas,5.0,,0.0,4.0,,3.0,4.0
+77,2018,UMF 1 Aguascalientes,69.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Hipertensión,4.0,3.0,1.0,2.0,7.0,3.0,3.0
+78,2018,UMF 1 Aguascalientes,42.0,1,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Ni satisfecho ni insatisfecho,Infecciones respiratorias agudas,3.0,4.0,1.0,4.0,,3.0,4.0
+79,2018,UMF 1 Aguascalientes,34.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Ni satisfecho ni insatisfecho,Infecciones respiratorias agudas,3.0,,0.0,4.0,1.0,3.0,1.0
+80,2018,UMF 1 Aguascalientes,37.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infecciones respiratorias agudas,4.0,,0.0,5.0,,3.0,3.0
+81,2018,UMF 1 Aguascalientes,53.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Trastornos mentales y del comportamiento,5.0,3.0,1.0,4.0,,3.0,4.0
+82,2018,UMF 1 Aguascalientes,51.0,3,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Muy Satisfecho,Hipertensión,5.0,4.0,1.0,5.0,,3.0,5.0
+83,2018,UMF 1 Aguascalientes,51.0,2,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infecciones respiratorias agudas,4.0,3.0,1.0,5.0,7.0,3.0,4.0
+84,2018,UMF 1 Aguascalientes,24.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Trastornos del metabolismo de las lipoproteínas y otras,4.0,3.0,1.0,4.0,,3.0,4.0
+85,2018,UMF 1 Aguascalientes,55.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infección de las vías urinarias,4.0,,0.0,4.0,,3.0,4.0
+86,2018,UMF 1 Aguascalientes,34.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Infección de las vías urinarias,4.0,,0.0,4.0,7.0,3.0,4.0
+87,2018,UMF 1 Aguascalientes,31.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Gastritis y duodenitis,4.0,6.0,1.0,4.0,,3.0,4.0
+88,2018,UMF 1 Aguascalientes,33.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Gastritis y duodenitis,4.0,3.0,1.0,4.0,,3.0,4.0
+89,2018,UMF 1 Aguascalientes,40.0,1,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Gastritis y duodenitis,2.0,,0.0,3.0,,3.0,4.0
+90,2018,UMF 1 Aguascalientes,32.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Satisfecho,Alergia,4.0,6.0,1.0,4.0,,3.0,3.0
+91,2018,UMF 1 Aguascalientes,41.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta médica,Insatisfecho,Alergia,2.0,,0.0,4.0,,3.0,4.0
+92,2018,UMF 1 Aguascalientes,69.0,9,21.8660074,-102.2935481,Aguascalientes,Medicina preventiva,Ni satisfecho ni insatisfecho,Diabetes mellitus o pie diabético,3.0,3.0,1.0,4.0,,,4.0
+93,2018,UMF 1 Aguascalientes,28.0,4,21.8660074,-102.2935481,Aguascalientes,Consulta Dental,Satisfecho,Odontología,4.0,,0.0,4.0,7.0,,5.0
+94,2018,UMF 1 Aguascalientes,24.0,8,21.8660074,-102.2935481,Aguascalientes,Consulta Dental,Insatisfecho,Odontología,2.0,,0.0,4.0,,,3.0
+95,2018,UMF 1 Aguascalientes,35.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta Dental,Satisfecho,Odontología,4.0,3.0,1.0,4.0,,,3.0
+96,2018,UMF 1 Aguascalientes,43.0,5,21.8660074,-102.2935481,Aguascalientes,Consulta Dental,Satisfecho,Odontología,4.0,4.0,1.0,4.0,,3.0,4.0
+97,2018,UMF 10 Aguascalientes,22.0,5,21.9000624,-102.2933175,Aguascalientes,Consulta médica,Satisfecho,Embarazo,4.0,3.0,1.0,4.0,,3.0,4.0
+98,2018,UMF 10 Aguascalientes,27.0,5,21.9000624,-102.2933175,Aguascalientes,Consulta médica,Satisfecho,Embarazo,4.0,3.0,1.0,4.0,7.0,3.0,4.0
+99,2018,UMF 10 Aguascalientes,22.0,5,21.9000624,-102.2933175,Aguascalientes,Consulta médica,Satisfecho,Embarazo,4.0,3.0,1.0,4.0,7.0,3.0,4.0
